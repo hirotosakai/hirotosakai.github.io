@@ -1,4 +1,4 @@
-# hirotosakai@GitHub
+# 昔に作ったソフトウェア
 
 かつて http://www.fan.gr.jp/~sakai/ で配布していたソフトウェアを公開しています。
 
@@ -24,7 +24,7 @@ AppleGlotが生成するGlossaryファイルの簡易エディタ
 
 ## Camino ExtraFonts
 
-フォントをはじめとする日本人ユーザー向けの設定項目を集めたCamino Webブラウザの環境設定パネル
+フォントをはじめとする日本人ユーザー向けの設定が行えるCamino Webブラウザの環境設定パネル
 
 - [リポジトリへ](https://github.com/hirotosakai/extrafonts)
 

@@ -148,6 +148,6 @@ qemu-system-ppc -L pc-bios -M mac99,via=pmu \
 
 USキーボードをエミュレートするため、JISキーボード搭載Macでは一部の記号が正しく打てません。QEMUでキーボード配列を変更できないようなので、Mac側で[Karabiner-Elements](https://karabiner-elements.pqrs.org/)を使って対応します。
 
-1. キーマップを変更するファイル [us-keyboard.json](us-keyboard.json) を ~/.config/karabiner/assets/complex_modifications へ置く
+1. キーマップを変更するファイル [us-keyboard.json](https://github.com/hirotosakai/hirotosakai.github.io/raw/main/us-keyboard.json) を ~/.config/karabiner/assets/complex_modifications へ置く
 2. Karabiner-Elements の設定画面で Complex Modifications タブを開き、Add rule ボタンを押す
 3. 「JIS キーボード使いの ASCII 配列な環境向けの設定」から必要な設定を Enable にする
